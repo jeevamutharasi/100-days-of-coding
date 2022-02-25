@@ -1,3 +1,3 @@
 # 100-days-of-coding
 
-* 1. Day 1 - [Lists](day1/README.md) 
+* Day 1 - [Lists](day 1/README.md) 
