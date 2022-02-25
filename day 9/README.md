@@ -1,4 +1,4 @@
-### Book Heist
+# Book Heist
 
 There is a book reading scheduled at a popular bookstore in the city. N book lovers are expected to show up. The i-th customer comes to the show at time Si and leaves at time Ei. At any point of time, the set of people who are present in the bookstore bond over books, coffee, and conversation, and become friends. After the event is done, it turns out that some precious books were missing from the store, and it looks like there was a planned heist. So the police want to interrogate everyone who came to the event, but unfortunately, they don't have enough time to speak to all of them. They are suspecting that there are X people involved in this theft. It is natural that those X people would be friends with each other.
 
