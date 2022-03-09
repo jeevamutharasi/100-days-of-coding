@@ -19,5 +19,4 @@
 * Day 17 - [Missing Numbers](day_17)
 * Day 18 - [The Full Counting Sort](day_18)
 * Day 19 - [Reverse A String](day_19)
-
-(* Day  - [](day_))
+<!--* Day  - [](day_)-->
