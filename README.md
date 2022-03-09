@@ -12,3 +12,11 @@
 * Day 10 - [Sorting: Comparator](day_10)
 * Day 11 - [sWAP cASE](day_11)
 * Day 12 - [No Idea](day_12)
+* Day 13 - [Strong Password](day_13)
+* Day 14 - [Max Min](day_14)
+* Day 15 - [Dynamic Array](day_15)
+* Day 16 - [Smart Number 2](day_16)
+* Day 17 - [Missing Numbers](day_17)
+* Day 18 - [The Full Counting Sort](day_18)
+* Day 19 - [Reverse A String](day_19)
+[] # [* Day  - [](day_)]
