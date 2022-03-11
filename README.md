@@ -20,4 +20,6 @@
 * Day 18 - [The Full Counting Sort](day_18)
 * Day 19 - [Reverse A String](day_19)
 * Day 20 - [Palindrome](day_20)
+* Day 21 - [Prime Number](day_21)
+* Day 22 - [Factorial of an Integer](day_22)
 <!--* Day  - [](day_)-->
