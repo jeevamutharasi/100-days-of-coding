@@ -22,4 +22,5 @@
 * Day 20 - [Palindrome](day_20)
 * Day 21 - [Prime Number](day_21)
 * Day 22 - [Factorial of an Integer](day_22)
+* Day 23 - [Reversal of Linked List](day_23)
 <!--* Day  - [](day_)-->
