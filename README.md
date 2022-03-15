@@ -23,4 +23,5 @@
 * Day 21 - [Prime Number](day_21)
 * Day 22 - [Factorial of an Integer](day_22)
 * Day 23 - [Reversal of Linked List](day_23)
+* Day 24 - [Count Number Vowels and Consonants](day_24)
 <!--* Day  - [](day_)-->
