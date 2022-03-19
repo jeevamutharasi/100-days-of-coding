@@ -25,4 +25,5 @@
 * Day 23 - [Reversal of Linked List](day_23)
 * Day 24 - [Count Number Vowels and Consonants](day_24)
 * Day 25 - [Anagrams or Not](day_25)
+* Day 26 - [Amstrong or Not](day_26)
 <!--* Day  - [](day_)-->
