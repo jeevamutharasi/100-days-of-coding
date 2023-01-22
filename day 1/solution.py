@@ -18,8 +18,8 @@ for i in range(N):
     elif c[0] == 'reverse':
         a.reverse()
     elif c[0] == 'index':
-        print a.index(c[1])
+        print(a.index(c[1]))
     elif c[0] == 'count':
-        print a.count(c[1])
+        print(a.count(c[1]))
     else:
-        print a 
+        print(a)
